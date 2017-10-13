@@ -17,3 +17,4 @@ dist
 .cache
 .DS_Store
 activator-sbt-*-shim.sbt
+.sql
